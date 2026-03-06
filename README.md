@@ -38,11 +38,22 @@ A modern, feature-rich Android Point of Sale (POS) system designed specifically 
 - **Table Management**: Configure table capacity and status
 
 ## 📱 Screenshots
+## 📱 Screenshots
 
-<!-- Add your screenshots here -->
-```
-[Main Screen] [Table View] [Menu Screen] [Dashboard] [Reports]
-```
+<p align="center">
+  <img src="screenshots/main_screen.png" width="200" />
+  <img src="screenshots/table_view.png" width="200" />
+  <img src="screenshots/menu_screen.png" width="200" />
+  <img src="screenshots/dashboard.png" width="200" />
+</p>
+
+<p align="center">
+  <img src="screenshots/reports.png" width="200" />
+  <img src="screenshots/invoice.png" width="200" />
+  <img src="screenshots/settings.png" width="200" />
+</p>
+
+
 
 ## 🛠️ Tech Stack
 
