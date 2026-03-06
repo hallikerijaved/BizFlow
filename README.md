@@ -248,10 +248,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Javed Hallikeri**
+- GitHub: 
 - LinkedIn: www.linkedin.com/in/javed-hallikeri3993
-- Email: your.email@example.com
+- Email: javedhalikeri3993@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or suggestions:
 - Open an [Issue](https://github.com/yourusername/bizflow-pos/issues)
-- Email: support@example.com
+- Email: javedhalliker3993@gmail.com
 - Documentation: [Wiki](https://github.com/yourusername/bizflow-pos/wiki)
 
 ---
