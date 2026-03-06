@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default dimensions for mobile -->
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    
+    <!-- Text sizes -->
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="status_text_size">20sp</dimen>
+    <dimen name="total_text_size">18sp</dimen>
+    <dimen name="food_name_text_size">16sp</dimen>
+    <dimen name="food_price_text_size">14sp</dimen>
+    <dimen name="food_category_text_size">12sp</dimen>
+    
+    <!-- Button dimensions -->
+    <dimen name="button_min_height">48dp</dimen>
+    <dimen name="category_button_padding">16dp</dimen>
+    
+    <!-- Food item dimensions -->
+    <dimen name="food_image_size">60dp</dimen>
+    <dimen name="food_card_margin">8dp</dimen>
+    <dimen name="food_card_padding">16dp</dimen>
+</resources>

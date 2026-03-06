@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_item_manage_food.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\item_manage_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_item_sale.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\item_sale.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_item_food.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\item_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_invoice.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\drawable_status_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\drawable\\status_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_sales_history.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_sales_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\anim_item_add_animation.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\anim\\item_add_animation.xml"
+    },
+    {
+        "merged": "com.bizflow.pos.app-debug-35:/layout_activity_invoice.xml.flat",
+        "source": "com.bizflow.pos.app-main-37:/layout/activity_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_item_table.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\item_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_dialog_payment.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_food_management.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_food_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_table_management.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_table_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_change_pin.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_change_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-debug-35:\\layout_activity_printer_selection.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.12\\com.bizflow.pos.app-main-37:\\layout\\activity_printer_selection.xml"
+    }
+]

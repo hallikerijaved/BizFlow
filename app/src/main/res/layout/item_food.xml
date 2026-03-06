@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/food_card_margin"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/food_card_padding"
+        android:minHeight="@dimen/button_min_height">
+
+        <ImageView
+            android:id="@+id/imgFood"
+            android:layout_width="@dimen/food_image_size"
+            android:layout_height="@dimen/food_image_size"
+            android:layout_marginEnd="@dimen/margin_medium"
+            android:background="#E0E0E0"
+            android:scaleType="centerCrop"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_gravity="center_vertical" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/txtFoodName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Food Name"
+                android:textSize="@dimen/food_name_text_size"
+                android:textStyle="bold"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+            <TextView
+                android:id="@+id/txtFoodPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="₹0"
+                android:textSize="@dimen/food_price_text_size"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/txtFoodCategory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Category"
+                android:textSize="@dimen/food_category_text_size"
+                android:textColor="#666"
+                android:layout_marginTop="2dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical">
+
+            <Button
+                android:id="@+id/btnMinus"
+                style="@style/Widget.Material3.Button.TonalButton"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:text="−"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:insetTop="0dp"
+                android:insetBottom="0dp"
+                android:padding="0dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:layout_margin="4dp" />
+
+            <TextView
+                android:id="@+id/txtQuantity"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginHorizontal="4dp" />
+
+            <Button
+                android:id="@+id/btnPlus"
+                style="@style/Widget.Material3.Button.TonalButton"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:text="+"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:insetTop="0dp"
+                android:insetBottom="0dp"
+                android:padding="0dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:layout_margin="4dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

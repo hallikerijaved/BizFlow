@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tablet dimensions for sw600dp+ -->
+    <dimen name="activity_padding">24dp</dimen>
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin_medium">24dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    
+    <!-- Text sizes -->
+    <dimen name="title_text_size">32sp</dimen>
+    <dimen name="status_text_size">24sp</dimen>
+    <dimen name="total_text_size">22sp</dimen>
+    <dimen name="food_name_text_size">18sp</dimen>
+    <dimen name="food_price_text_size">16sp</dimen>
+    <dimen name="food_category_text_size">14sp</dimen>
+    
+    <!-- Button dimensions -->
+    <dimen name="button_min_height">56dp</dimen>
+    <dimen name="category_button_padding">24dp</dimen>
+    
+    <!-- Food item dimensions -->
+    <dimen name="food_image_size">80dp</dimen>
+    <dimen name="food_card_margin">12dp</dimen>
+    <dimen name="food_card_padding">24dp</dimen>
+</resources>

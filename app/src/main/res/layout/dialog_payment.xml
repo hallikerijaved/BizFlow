@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment Details"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subtotal:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txtSubtotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="₹0"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discount (%)"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/etDiscount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter discount %"
+        android:inputType="numberDecimal"
+        android:text="0"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/txtDiscountAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discount: ₹0"
+        android:textSize="14sp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tax (GST %)"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/etTax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter tax %"
+        android:inputType="numberDecimal"
+        android:text="5"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/txtTaxAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tax: ₹0"
+        android:textSize="14sp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/txtFinalAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Final Amount: ₹0"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment Method"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <RadioGroup
+        android:id="@+id/rgPaymentMethod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="16dp">
+
+        <RadioButton
+            android:id="@+id/rbCash"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cash"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/rbCard"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Card" />
+
+        <RadioButton
+            android:id="@+id/rbUPI"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="UPI" />
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnProceed"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Proceed"
+            android:layout_marginEnd="8dp" />
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:layout_marginStart="8dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

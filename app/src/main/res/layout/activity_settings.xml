@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Printer Settings"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@+id/txtPrinterStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="❌ Printer Disconnected"
+        android:textSize="16sp"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnSelectPrinter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Printer"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnTestPrinter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test Printer"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Auto Reconnect Interval:"
+        android:textSize="16sp"
+        android:layout_marginBottom="5dp" />
+
+    <Spinner
+        android:id="@+id/spinnerReconnectInterval"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Food Management"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnFoodManagement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manage Food Items"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnTableManagement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manage Tables"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Security"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnChangePin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Admin PIN"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Business Settings"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnEditBusinessName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit Business Name"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnEditBusinessAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit Business Address"
+        android:layout_marginBottom="10dp" />
+
+</LinearLayout>

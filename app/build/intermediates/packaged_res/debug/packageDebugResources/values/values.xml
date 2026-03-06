@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#6CDBAC</color>
+    <color name="colorPrimary">#006C4C</color>
+    <color name="colorPrimaryDark">#005138</color>
+    <color name="md_theme_dark_background">#191C1A</color>
+    <color name="md_theme_dark_onBackground">#E1E3DF</color>
+    <color name="md_theme_dark_onPrimary">#003826</color>
+    <color name="md_theme_dark_onSecondary">#1F352A</color>
+    <color name="md_theme_dark_onSurface">#E1E3DF</color>
+    <color name="md_theme_dark_primary">#6CDBAC</color>
+    <color name="md_theme_dark_primaryContainer">#005138</color>
+    <color name="md_theme_dark_secondary">#B3CCBE</color>
+    <color name="md_theme_dark_secondaryContainer">#354B40</color>
+    <color name="md_theme_dark_surface">#191C1A</color>
+    <color name="md_theme_light_background">#FBFDF9</color>
+    <color name="md_theme_light_onBackground">#191C1A</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#191C1A</color>
+    <color name="md_theme_light_primary">#006C4C</color>
+    <color name="md_theme_light_primaryContainer">#89F8C7</color>
+    <color name="md_theme_light_secondary">#4D6357</color>
+    <color name="md_theme_light_secondaryContainer">#CFE9D9</color>
+    <color name="md_theme_light_surface">#FBFDF9</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="button_min_height">48dp</dimen>
+    <dimen name="category_button_padding">16dp</dimen>
+    <dimen name="food_card_margin">8dp</dimen>
+    <dimen name="food_card_padding">16dp</dimen>
+    <dimen name="food_category_text_size">12sp</dimen>
+    <dimen name="food_image_size">60dp</dimen>
+    <dimen name="food_name_text_size">16sp</dimen>
+    <dimen name="food_price_text_size">14sp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="status_text_size">20sp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="total_text_size">18sp</dimen>
+    <string name="app_name">BizFlow</string>
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+    </style>
+</resources>

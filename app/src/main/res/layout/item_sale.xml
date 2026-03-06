@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="8dp">
+
+            <TextView
+                android:id="@+id/txtSaleInvoiceNumber"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="INV001"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtSaleAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="₹350"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#4CAF50" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtSaleDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2024-01-01 12:00:00"
+            android:textSize="14sp"
+            android:textColor="#666"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/txtSaleItems"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Items: Coffee x2, Sandwich x1"
+            android:textSize="12sp"
+            android:textColor="#888" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

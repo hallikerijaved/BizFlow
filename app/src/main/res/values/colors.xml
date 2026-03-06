@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_light_primary">#006C4C</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#89F8C7</color>
+    <color name="md_theme_light_secondary">#4D6357</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#CFE9D9</color>
+    <color name="md_theme_light_background">#FBFDF9</color>
+    <color name="md_theme_light_onBackground">#191C1A</color>
+    <color name="md_theme_light_surface">#FBFDF9</color>
+    <color name="md_theme_light_onSurface">#191C1A</color>
+    
+    <color name="md_theme_dark_primary">#6CDBAC</color>
+    <color name="md_theme_dark_onPrimary">#003826</color>
+    <color name="md_theme_dark_primaryContainer">#005138</color>
+    <color name="md_theme_dark_secondary">#B3CCBE</color>
+    <color name="md_theme_dark_onSecondary">#1F352A</color>
+    <color name="md_theme_dark_secondaryContainer">#354B40</color>
+    <color name="md_theme_dark_background">#191C1A</color>
+    <color name="md_theme_dark_onBackground">#E1E3DF</color>
+    <color name="md_theme_dark_surface">#191C1A</color>
+    <color name="md_theme_dark_onSurface">#E1E3DF</color>
+    
+    <color name="colorPrimary">#006C4C</color>
+    <color name="colorPrimaryDark">#005138</color>
+    <color name="colorAccent">#6CDBAC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
